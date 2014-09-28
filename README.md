@@ -16,6 +16,7 @@ A curated list of amazingly awesome open source resources for broadcasters inspi
   * [Websites](#websites)
 * [Contributing](#contributing)
 
+<!-- This page is available on http://ebu.io/opensource -->
 
 ## Codecs
 
