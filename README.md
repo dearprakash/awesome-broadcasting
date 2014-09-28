@@ -88,5 +88,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 * [EBU.io](http://www.ebu.io) - A platform for agile collaboration.
 
+<!-- This page is available on http://ebu.io/opensource -->
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
